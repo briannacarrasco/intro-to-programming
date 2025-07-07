@@ -11,5 +11,6 @@ fetch code everymorning for peoples changes
     - Particular libraries, frameworks, etc
 .NET creates an assembly 
 notes:
+can you explain why you use a semicolon after namespace 
 i found it interesting how stack overflow has 15 developers
 i also found it intersting that in vs a project is the same thing as an assembly 
