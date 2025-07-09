@@ -1,0 +1,18 @@
+TESTS
+commands
+- f12 will show you where the info comes from
+- ctrl - will get you back
+
+CODING STEPS
+1. RED
+2. GREEN
+    - just hard code it 
+    - write enough to make it pass
+3. REFACTOR
+
+writing coding tests write tests before
+1. given
+2. when
+3. then
+
+write test to demonstrate actual capabilities of system 
